@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+node_modules/
+config.env
+*.xml
+.cache/
